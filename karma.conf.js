@@ -156,6 +156,7 @@ module.exports = function(config) {
         base: 'BrowserStack',
         device: 'Google Pixel 3',
         real_mobile: true,
+        os: 'android',
         os_version: '9.0',
       },
     }
